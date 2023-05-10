@@ -1,5 +1,5 @@
-# Outline of Chinese Political Science
-中国大陆人教版政治（道德与法治）学科提纲，以Markdown文档形式呈现
+# Outline of Chinese Political Science正文部分
+版本：第一版
 ## 使用前必读
 ### 版权
 本文档由12sdj整理编写，适用于人教版《道德与法治》系列书籍。本文档对使用者对文档的使用具有一定限制，您在使用时必须遵守以下规定。如果您不遵守以下规定，请立即退出该页面并从您的设备中删除该文档。  
